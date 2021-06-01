@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/ZG4gSnb.jpeg" alt="demo"/>
+
 # Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
 A jekyll website for photographers
 
@@ -20,7 +22,7 @@ it's hosted by GitHub for __free__.
 5. Update `baseurl` field in `_config.yml` file with whatever domain you used in step 4.
 6. And that's it, your website is set. To view, go to [photography.rampatra.com](http://photography.rampatra.com) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/photography](http://yourusername.github.io/photography)
 
-And of course, you don't want my name at the bottom to show up. You can change it in `_config.yml` file as well as few other settings like your google analytics etc.
+And, of course, you don't want my name at the bottom to show up. You can change it in `_config.yml` file as well as few other settings like your google analytics, etc.
  
 ## ProTips
 I have made this as an [npm](https://www.npmjs.com) package with [gulp](http://gulpjs.com/) to __automate image resizing
@@ -49,6 +51,19 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 
 ## Sponsors
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/photography#sponsors)]
- 
+Proudly sponsored by [Presentify](http://presentify.compzets.com?ref=GitHub) and [BrowserStack](https://www.browserstack.com?ref=RamPatra). Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/animatescroll#sponsors)]
+
+<table border="0">
+    <tr>
+        <td>
+            <a href="https://presentify.compzets.com/" target="_blank"><img src="https://presentify.compzets.com/assets/img/presentify/app-icon-512.png" width="150" height="150"></a>
+        </td>
+        <td>
+            <a href="https://www.browserstack.com?ref=RamPatra" target="_blank"><img src="https://i.imgur.com/LqI8CO1.png" width="130" height="130"></a>
+        </td>
+    </tr>
+</table>
+
 <a href="https://opencollective.com/photography#sponsors" target="_blank"><img src="https://opencollective.com/photography/sponsors.svg?width=890"></a>
+
+P.S. Feel free to connect with me on [Twitter](https://twitter.com/ram__patra) for discussing ideas/issues/concerns.
