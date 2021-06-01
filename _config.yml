@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://github.com/diegoUE8/photography"
+baseurl: "https://diegoue8.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
@@ -22,4 +22,4 @@ social_urls:
   instagram: "https://www.instagram.com/ram_patra"
   dribbble: "https://dribbble.com/rampatra"
   linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://diegoUE8.github.io/photography/"
+  github: "https://diegoue8.github.io/photography/"
